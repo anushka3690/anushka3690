@@ -122,6 +122,5 @@ If you are reviewing my profile, explore my [portfolio website](https://anushka-
 
 ### Thanks for visiting my profile! ⭐
 
-<img src="https://komarev.com/ghpvc/?username=anushka3690&style=flat-square&color=blue" alt="Profile views" />
 
 </div>
