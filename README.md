@@ -4,11 +4,17 @@
 
 ### Data Science • Machine Learning • SQL • Business Intelligence • Generative AI
 
+<a href="https://anushka-portfolia.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/anushka-kumari-a42198235/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/anushka3690">
-  <img src="https://img.shields.io/badge/GitHub-anushka3690-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-anushka3690-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://github.com/anushka3690?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View%20repositories-2ea44f?style=for-the-badge&logo=github" alt="Projects" />
+  <img src="https://img.shields.io/badge/Projects-View%20repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
 </a>
 
 </div>
@@ -104,7 +110,13 @@ I am especially interested in opportunities where I can combine analytical think
 
 I am open to connecting with recruiters, data teams, analytics professionals, and collaborators working on meaningful data and AI problems.
 
-If you are reviewing my profile, the best place to start is the **Featured projects** section above. Each project links directly to its repository, notebooks, analysis, and implementation details.
+If you are reviewing my profile, explore my [portfolio website](https://anushka-portfolia.netlify.app/), connect with me on [LinkedIn](https://www.linkedin.com/in/anushka-kumari-a42198235/), or start with the **Featured projects** section above. Each project links directly to its repository, notebooks, analysis, and implementation details.
+
+## Let's connect
+
+- 🌐 **Portfolio:** [anushka-portfolia.netlify.app](https://anushka-portfolia.netlify.app/)
+- 💼 **LinkedIn:** [Anushka Kumari](https://www.linkedin.com/in/anushka-kumari-a42198235/)
+- 🐙 **GitHub:** [anushka3690](https://github.com/anushka3690)
 
 <div align="center">
 
